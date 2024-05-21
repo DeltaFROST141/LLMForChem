@@ -1,0 +1,11 @@
+## MacOS-specific files
+.DS_Store
+
+
+## Model files
+*.model
+*.safetensors
+
+## Programming language files
+*.pyc
+__pycache__/
