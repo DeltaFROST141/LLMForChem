@@ -2,10 +2,13 @@
 .DS_Store
 
 
-## Model files
+## Model files and data files
 *.model
 *.safetensors
+*.npz
+*.json
 
 ## Programming language files
 *.pyc
 __pycache__/
+
